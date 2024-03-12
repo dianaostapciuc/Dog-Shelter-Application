@@ -1,1 +1,1 @@
-# Dog-Shelter-Application
+Developed a GUI software application, using QTDesigner, for a dog shelter with administrator and user modes. Administrators can manage the database by adding, deleting, and updating dog information, while users can browse dogs, adopt them, view dogs by breed and age, and manage their adoption list.
